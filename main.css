@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: Raleway, sans-serif;
+}
+
+.Logo {
+    width: 129px;
+    height: 42px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35.6205px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-left: 198px;
+    margin-top: -25px;
+    padding: 5.94px;
+
+}
+
+.nav {
+    position: absolute;
+    width: 1518px;
+    height: 111px;
+    left: 0px;
+    top: 0px;
+    background: rgba(64, 74, 59, 0.73);
+}
+
+.menu-bar {
+    position: absolute;
+    width: 64px;
+    height: 28px;
+    left: 40px;
+    top: 60px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23.8569px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.menu-bar ul {
+    display: inline-flex;
+    list-style: none;
+    margin-left: 410px;
+    color: #FFFFFF;
+}
+
+.menu-bar ul li {
+    width: 144px;
+    height: 44px;
+}
+
+.menu-bar ul li a {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23.8569px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.menu-bar ul li a:hover {
+    width: fit-content;
+    border-bottom: 2px solid #fff;
+
+}
+
+.menu-bar ul li a.Homey {
+    color: #EDCD5A;
+}
+
+/* menü bar bitimi*/
+
+.login p.text {
+    position: absolute;
+    width: 470px;
+    height: 97px;
+    left: 521px;
+    top: 397px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 154px;
+
+    color: #FFFFFF;
+}
+
+
+.focusAdult {
+    background-color: #D0A50C;
+    ;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+    top: 538px;
+    width: 133px;
+    height: 48px;
+    border-radius: 4px;
+    padding: 12px 24px;
+    gap: 10px;
+    left: 598px;
+
+
+}
+
+.defaultChild {
+    border: 1px solid #FFFFFF;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+    top: 538px;
+    width: 133px;
+    height: 48px;
+    border-radius: 4px;
+    padding: 12px 24px;
+    left: 767px;
+
+}
+
+.Spring {
+    position: absolute;
+    padding: 16px 7px 29px 16px;
+    width: 150px;
+    height: 33.82px;
+    left: 1368px;
+    top: 371px;
+    background: #D0A50C;
+    border-radius: 6px 0px 0px 6px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 18px;
+    color: #FFFFFF;
+    align-items: center;
+
+}
+
